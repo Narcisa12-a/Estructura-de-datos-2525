@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arrea\\Estructura de datos\\prueba1\\prueba1.csproj": {}
+    "C:\\Users\\arrea\\Estructura de datos 2525\\Semana 02\\prueba1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arrea\\Estructura de datos\\prueba1\\prueba1.csproj": {
+    "C:\\Users\\arrea\\Estructura de datos 2525\\Semana 02\\prueba1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arrea\\Estructura de datos\\prueba1\\prueba1.csproj",
+        "projectUniqueName": "C:\\Users\\arrea\\Estructura de datos 2525\\Semana 02\\prueba1.csproj",
         "projectName": "prueba1",
-        "projectPath": "C:\\Users\\arrea\\Estructura de datos\\prueba1\\prueba1.csproj",
+        "projectPath": "C:\\Users\\arrea\\Estructura de datos 2525\\Semana 02\\prueba1.csproj",
         "packagesPath": "C:\\Users\\arrea\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arrea\\Estructura de datos\\prueba1\\obj\\",
+        "outputPath": "C:\\Users\\arrea\\Estructura de datos 2525\\Semana 02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arrea\\AppData\\Roaming\\NuGet\\NuGet.Config"
