@@ -1,22 +1,22 @@
 ﻿using System;
-// Este programa define dos clases: Circulo y Rectangulo
-// Ambas encapsulan sus datos y tienen métodos para calcular área y perímetro
+
 class Program
 {
     static void Main(string[] args)
     {
-        // Creamos un círculo con radio 5
-        Circulo miCirculo = new Circulo(5);
-        // Creamos un rectángulo con base 4 y altura 6
-        Rectangulo miRectangulo = new Rectangulo(4, 6);
-        Console.WriteLine("Círculo:");
-        Console.WriteLine("Área: " + miCirculo.CalcularArea());
-        Console.WriteLine("Perímetro: " + miCirculo.CalcularPerimetro());
+        // Creamos un array de 3 teléfonos
+        string[] telefonos = new string[3] { "0939216573", "0993636420", "0935121635" };
 
-        Console.WriteLine("\nRectángulo:");
-        Console.WriteLine("Área: " + miRectangulo.CalcularArea());
-        Console.WriteLine("Perímetro: " + miRectangulo.CalcularPerimetro());
+        // Creamos un objeto Estudiante con sus datos
+        Estudiante estudiante = new Estudiante(
+            1,
+            "Narcisa Lilibeth",
+            "Arreaga Salazar",
+            "Cantón Colimes, Provincia del Guayas",
+            telefonos
+        );
+
+        // Mostramos la información del estudiante
+        estudiante.MostrarInformacion();
     }
 }
-
-
